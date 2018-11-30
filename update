@@ -1,0 +1,9 @@
+#!/bin/bash
+
+source keys.txt
+
+rm -f .git/*.lock
+curl "https://openexchangerates.org/api/latest.json?app_id=$APPID&show_alternative=true" -o currencies.json
+git add currencies.json
+git commit -m "Update currencies.json"
+git push https://$USERNAME:$PASSWORD@github.com/CurrencyKeypirinha/currency-exchange.git master
