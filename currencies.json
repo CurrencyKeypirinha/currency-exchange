@@ -1,7 +1,7 @@
 {
   "disclaimer": "Usage subject to terms: https://openexchangerates.org/terms",
   "license": "https://openexchangerates.org/license",
-  "timestamp": 1640390401,
+  "timestamp": 1640394017,
   "base": "USD",
   "rates": {
     "AED": 3.673,
@@ -150,7 +150,7 @@
     "SVC": 8.75027,
     "SYP": 2512.5,
     "SZL": 15.605,
-    "THB": 33.409583,
+    "THB": 33.409582,
     "TJS": 11.288318,
     "TMT": 3.5,
     "TND": 2.8725,
