@@ -1,7 +1,7 @@
 {
   "disclaimer": "Usage subject to terms: https://openexchangerates.org/terms",
   "license": "https://openexchangerates.org/license",
-  "timestamp": 1693033209,
+  "timestamp": 1693036809,
   "base": "USD",
   "rates": {
     "AED": 3.673035,
@@ -162,7 +162,7 @@
     "UAH": 36.952901,
     "UGX": 3695.898412,
     "USD": 1,
-    "UYU": 37.707037,
+    "UYU": 37.743711,
     "UZS": 12077.220974,
     "VEF_BLKMKT": 10.4,
     "VEF_DICOM": 8.82,
